@@ -4,4 +4,4 @@ Install dependencies:
     pip install pandas
 
 Run:
-    python solution.py
+    main.py
